@@ -47,3 +47,6 @@ The dashboard includes the following KPIs:
 📌 Sales Distribution by City – Displays location-wise sales on a map.
 
 📌 Payment Method Usage – Shows how customers prefer to pay.
+
+- Dashboard Interaction - <a href="https://github.com/Dileep7589/-Mobile-Sales-Dashboard---Power-BI/blob/main/Screenshot%202025-03-19%20234752.png">View Dashboard</a>
+
