@@ -27,7 +27,7 @@ The main objective of this project is to analyze mobile phone sales data to:
 - Payment Methods Used
 - Sales Location (City-wise)
 
-##📊 KPIs (Key Performance Indicators)
+## 📊 KPIs (Key Performance Indicators)
 The dashboard includes the following KPIs:
 
 📌 Total Sales – Measures overall revenue from mobile sales.
