@@ -50,18 +50,17 @@ The dashboard includes the following KPIs:
 
 - Dashboard Interaction - <a href="https://github.com/Dileep7589/-Mobile-Sales-Dashboard---Power-BI/blob/main/Screenshot%202025-03-19%20234752.png">View Dashboard</a>
 
-##📈 Process & Steps
+## 📈 Process & Steps
 - Data Cleaning & Preparation
-
 Removed missing or inconsistent values.
 Formatted dates, sales amounts, and customer ratings.
 Merged different datasets to create a unified dataset.
-- Data Modeling & Relationships
 
+- Data Modeling & Relationships
 Created relationships between Sales, Products, Transactions, and Customer Ratings tables.
 Used DAX measures for KPIs like Total Sales, Quantity Sold, and YoY Growth.
-- Data Visualization in Power BI
 
+- Data Visualization in Power BI
 Used bar charts, line charts, and pie charts for insights.
 Added interactive filters for Mobile Model, Brand, Payment Method, and Date.
 Created a heatmap for city-wise sales.
