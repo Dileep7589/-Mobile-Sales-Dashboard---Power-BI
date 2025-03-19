@@ -89,4 +89,8 @@ Sales peak in April and May, likely due to seasonal demand or product launches.
 Quarter 2 (Q2) consistently shows high sales volume.
 The YoY growth trend is stable, with slight variations in Q4 sales.
 
+## dashboard 
+![Screenshot 2025-03-19 234752](https://github.com/user-attachments/assets/6bfede1e-8833-4fe4-b8cd-0c758b872e38)
+
+
 
