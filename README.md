@@ -94,6 +94,7 @@ The YoY growth trend is stable, with slight variations in Q4 sales.
 
 ## 📌 Conclusion
 This Power BI dashboard provides valuable insights into mobile sales trends, customer preferences, and regional sales performance. Businesses can use these insights to:
+
 ✅ Optimize inventory planning based on seasonal trends.
 
 ✅ Target high-sales cities for promotions.
