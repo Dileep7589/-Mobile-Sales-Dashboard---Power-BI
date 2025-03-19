@@ -26,3 +26,24 @@ The main objective of this project is to analyze mobile phone sales data to:
 - Customer Ratings
 - Payment Methods Used
 - Sales Location (City-wise)
+
+##📊 KPIs (Key Performance Indicators)
+The dashboard includes the following KPIs:
+
+📌 Total Sales – Measures overall revenue from mobile sales.
+
+📌 Total Quantity Sold – Tracks the number of units sold.
+
+📌 Transactions – Counts the total number of sales transactions.
+
+📌 Average Price per Unit – Calculates the average selling price.
+
+📌 Sales Growth Comparison – Compares sales with the same period last year (Yearly, Quarterly, Monthly).
+
+📌 Top Brands & Models – Identifies the best-selling brands and models.
+
+📌 Customer Ratings Breakdown – Analyzes customer feedback.
+
+📌 Sales Distribution by City – Displays location-wise sales on a map.
+
+📌 Payment Method Usage – Shows how customers prefer to pay.
