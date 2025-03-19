@@ -17,7 +17,7 @@ The main objective of this project is to analyze mobile phone sales data to:
 ## 📂 Dataset Used
 - <a href="https://github.com/Dileep7589/-Mobile-Sales-Dashboard---Power-BI/blob/main/Mobile%20Sales%20Power%20BI%20Project.pbix">dataset</a>
 
-- The dataset contains records of mobile phone sales, including:
+  The dataset contains records of mobile phone sales, including:
 - Sales Date (Year, Quarter, Month, Day)
 - Total Sales Revenue
 - Total Quantity Sold
