@@ -66,3 +66,27 @@ Added interactive filters for Mobile Model, Brand, Payment Method, and Date.
 Created a heatmap for city-wise sales.
 Applied color-coded KPIs for better readability.
 
+## 📌 Project Insights & Findings
+
+- Sales Performance:
+The total sales revenue is 769M, with 19K units sold across multiple cities.
+The number of transactions recorded is 4K.
+
+- Top Brands & Models:
+Apple & Samsung are the leading brands in total sales.
+The iPhone SE, OnePlus Nord, and Galaxy Note 20 are the top-selling models.
+
+- Payment Trends:
+Customers prefer Credit Cards & Debit Cards, followed by UPI transactions.
+Cash transactions account for the smallest percentage.
+
+- Geographical Insights:
+Delhi, Mumbai, and Bangalore have the highest sales figures.
+Smaller cities like Indore and Ranchi also show a good number of transactions.
+
+- Sales Trends:
+Sales peak in April and May, likely due to seasonal demand or product launches.
+Quarter 2 (Q2) consistently shows high sales volume.
+The YoY growth trend is stable, with slight variations in Q4 sales.
+
+
