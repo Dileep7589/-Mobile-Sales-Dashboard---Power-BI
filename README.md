@@ -2,20 +2,20 @@
 ## Project Objective
 The main objective of this project is to analyze mobile phone sales data to:
 
-✅ Track total sales and total quantity sold over different time periods.
+ Track total sales and total quantity sold over different time periods.
 
-✅ Compare current sales with the same period last year for better trend analysis.
+ Compare current sales with the same period last year for better trend analysis.
 
-✅ Identify top-selling mobile brands and models.
+ Identify top-selling mobile brands and models.
 
-✅ Analyze customer ratings to understand product performance.
+ Analyze customer ratings to understand product performance.
 
-✅ Understand payment method preferences (Cash, UPI, Debit Card, etc.).
+ Understand payment method preferences (Cash, UPI, Debit Card, etc.).
 
-✅ Visualize sales distribution by city using a geographic map.
+ Visualize sales distribution by city using a geographic map.
 
 
-## 📂 Dataset Used
+##  Dataset Used
 - <a href="https://github.com/Dileep7589/-Mobile-Sales-Dashboard---Power-BI/blob/main/Mobile%20Sales%20Power%20BI%20Project.pbix">dataset</a>
 
  The dataset contains records of mobile phone sales, including:
@@ -28,30 +28,30 @@ The main objective of this project is to analyze mobile phone sales data to:
 - Payment Methods Used
 - Sales Location (City-wise)
 
-## 📊 KPIs (Key Performance Indicators)
+##  KPIs (Key Performance Indicators)
 The dashboard includes the following KPIs:
 
-📌 Total Sales – Measures overall revenue from mobile sales.
+ Total Sales – Measures overall revenue from mobile sales.
 
-📌 Total Quantity Sold – Tracks the number of units sold.
+ Total Quantity Sold – Tracks the number of units sold.
 
-📌 Transactions – Counts the total number of sales transactions.
+ Transactions – Counts the total number of sales transactions.
 
-📌 Average Price per Unit – Calculates the average selling price.
+ Average Price per Unit – Calculates the average selling price.
 
-📌 Sales Growth Comparison – Compares sales with the same period last year (Yearly, Quarterly, Monthly).
+ Sales Growth Comparison – Compares sales with the same period last year (Yearly, Quarterly, Monthly).
 
-📌 Top Brands & Models – Identifies the best-selling brands and models.
+ Top Brands & Models – Identifies the best-selling brands and models.
 
-📌 Customer Ratings Breakdown – Analyzes customer feedback.
+ Customer Ratings Breakdown – Analyzes customer feedback.
 
-📌 Sales Distribution by City – Displays location-wise sales on a map.
+ Sales Distribution by City – Displays location-wise sales on a map.
 
-📌 Payment Method Usage – Shows how customers prefer to pay.
+ Payment Method Usage – Shows how customers prefer to pay.
 
 - Dashboard Interaction - <a href="https://github.com/Dileep7589/-Mobile-Sales-Dashboard---Power-BI/blob/main/Screenshot%202025-03-19%20234752.png">View Dashboard</a>
 
-## 📈 Process & Steps
+##  Process & Steps
 - Data Cleaning & Preparation
 Removed missing or inconsistent values.
 Formatted dates, sales amounts, and customer ratings.
@@ -67,7 +67,7 @@ Added interactive filters for Mobile Model, Brand, Payment Method, and Date.
 Created a heatmap for city-wise sales.
 Applied color-coded KPIs for better readability.
 
-## 📌 Project Insights & Findings
+##  Project Insights & Findings
 
 - Sales Performance:
 The total sales revenue is 769M, with 19K units sold across multiple cities.
@@ -93,14 +93,14 @@ The YoY growth trend is stable, with slight variations in Q4 sales.
 ## dashboard 
 ![Screenshot 2025-03-19 234752](https://github.com/user-attachments/assets/6bfede1e-8833-4fe4-b8cd-0c758b872e38)
 
-## 📌 Conclusion
+##  Conclusion
 This Power BI dashboard provides valuable insights into mobile sales trends, customer preferences, and regional sales performance. Businesses can use these insights to:
 
-✅ Optimize inventory planning based on seasonal trends.
+ Optimize inventory planning based on seasonal trends.
 
-✅ Target high-sales cities for promotions.
+ Target high-sales cities for promotions.
 
-✅ Enhance marketing strategies for top-selling brands & models.
+ Enhance marketing strategies for top-selling brands & models.
 
-✅ Improve payment options based on customer preferences.
+ Improve payment options based on customer preferences.
 
